@@ -1,0 +1,35 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h1 class="footer-heading">{{ site.title | escape }}</h1>
+    <h3 class="footer-heading">Ass. Prof. Wolfgang Lechner</h3>
+
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+                University Innsbruck<br>
+                Technikerstrasse 21a<br>
+                6020 Innsbruck<br>
+                Austria
+            </li>
+            {% if site.email %}
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

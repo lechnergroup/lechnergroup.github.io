@@ -1,0 +1,156 @@
+
+- name:    A Coherent Quantum Annealer with Rydberg Atoms,
+  authors: A. Glaetzle, R. van Bijnen , P. Zoller and W. Lechner
+  reference: arxiv 1611.02594  (2017).
+  link: https://arxiv.org/abs/1611.02594
+
+- name:    A Transmon Quantum Annealer Decomposing Many-Body Ising Constraints Into Pair Interactions
+  authors: M. Leib, P. Zoller and W. Lechner
+  reference: Quantum Science and Technology 1, 015008 (2016).
+  link: http://iopscience.iop.org/article/10.1088/2058-9565/1/1/015008
+
+- name: Glass Transitions in Monodisperse Cluster-Forming Ensembles Vortex Matter in Type-1.5 Superconductors,
+  authors: R. Diaz-Mendez, F. Mezzacapo, W. Lechner, F. Cinti, E. Babaev, G. Pupillo
+  reference: Phys. Rev. Lett. 118, 067001 (2016).
+  link: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.067001
+
+- name: A Quantum Annealing Architecture with All-to-All Connectivity from Local Interactions, 
+  authors: W. Lechner, P. Hauke, and P. Zoller,
+  reference: Science Advances 1, 1500838 (2015). 
+  link: http://advances.sciencemag.org/content/1/9/e1500838
+
+- name:  From classical to quantum non-equilibrium dynamics of Rydberg excitations in optical lattices,
+  authors: M. Mattioli, A. Glätzle, and W. Lechner,
+  reference: New J. Phys. 17, 113039 (2015).
+  link: http://iopscience.iop.org/article/10.1088/1367-2630/17/11/113039
+
+- name: Tunable defect interactions in classical and quantum solids,
+  authors: W. Lechner, F. Cinti, G. Pupillo,
+  reference: Phys. Rev. A 92, 053625 (2015).
+  link: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.053625
+
+- name: Monodisperse cluster crystals Classical and quantum dynamics
+  authors: R. Diaz-Mendez, F. Mezzacapo, F. Cinti, W. Lechner, G. Pupillo 
+  reference: Phys. Rev. E 92, 052307 (2015).
+  link: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.052307
+
+- name: Spatial Patterns of Rydberg Excitations from Logarithmic Pair Interactions,
+  authors: W. Lechner and P. Zoller,
+  reference: Phys. Rev. Lett. 115, 125301 (2015).
+  link: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.125301
+
+- name: Probing Entanglement in Adiabatic Quantum Optimization with Trapped Ions,
+  authors: P. Hauke, L. Bonnes, M. Heyl, and W. Lechner,
+  reference: Frontiers in Physics 3, 21 (2015).
+  link: http://journal.frontiersin.org/article/10.3389/fphy.2015.00021/full
+
+- name:  A string reaction coordinate for the folding of a polymer chain,
+  authors: C. Leitold, W. Lechner, and C. Dellago
+  reference: J. Phys. Condens. Matter 27, 194126 (2015).
+  link: http://iopscience.iop.org/article/10.1088/0953-8984/27/19/194126
+  
+- name: Cluster Luttinger liquids and emergent supersymmetric conformal critical points in the one-dimensional soft-shoulder Hubbard model,
+  authors: M. Dalmonte, W. Lechner, Zi Cai, M. Mattioli, A. M. Läuchli, G. Pupillo
+  reference: Phys. Rev. B 92, 045106 (2015).
+  link: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.92.045106
+
+- name: Entropy and Kinetics of Point-Defects in Two-Dimensional Dipolar Crystals
+  authors: W. Lechner, D. Polster, G. Maret, C. Dellago, and P. Keim
+  reference: Phys. Rev. E 91, 032304 (2015).
+  link: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.032304
+  
+- name:  The Role of Quantum Fluctuations in the Hexatic Phase of Cold Polar Molecules, 
+  authors: W. Lechner, H.-P. Büchler, and P. Zoller,
+  reference: Phys. Rev. Lett. 112, 255301 (2014).
+  link: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.255301
+  
+- name: Defect-induced supersolidity with soft-core Bosons,
+  authors: F. Cinti, T. Macri, W. Lechner, G. Pupillo, T. Pohl,
+  reference: Nature Comm. 5 , 3235 (2014).
+  link: https://www.nature.com/articles/ncomms4235
+  
+- name: Equilibrium and non-equilibrium cluster phases in colloids with competing interactions,
+  authors: E. Mani, W. Lechner, W. Kegel, P. Bolhuis,
+  reference: Soft Matter 10, 4479 (2014).
+  link: http://pubs.rsc.org/en/Content/ArticleLanding/2014/SM/c3sm53058b
+
+- name: Self-organized defect strings in two-dimensional crystals,
+  authors: W. Lechner, D. Polster, G. Maret, P. Keim, C. Dellago,
+  reference: Phys. Rev. E 88, 060402 (2013).
+  link: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.060402
+
+- name: From Classical to Quantum Glasses with Ultracold Polar Molecules, 
+  authors: W. Lechner and P. Zoller,  
+  reference: Phys. Rev. Lett.  111, 185306  (2013).
+  link: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.185306
+
+- name: Cluster Luttinger liquids of Rydberg-dressed atoms in optical lattices,
+  authors: M. Mattioli, M. Dalmonte, W. Lechner, and G. Pupillo,
+  reference: Phys. Rev. Lett. 111, 165302 (2013).
+  link: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.165302
+
+- name:  Resonances in dissipative optomechanics with nanoparticles Sorting, speed rectification, and transverse cooling,
+  authors: S. J. M. Habraken, W. Lechner, and P Zoller,
+  reference: Phys. Rev. A 97, 053808 (2013).
+  link: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.87.053808
+
+- name: Cavity Optomechanics of Levitated Nano-Dumbbells Non-Equilibrium Phases and Self-Assembly,
+  authors: W. Lechner, S. J. M. Habraken, N. Kiesel, M. Aspelmeyer, P. Zoller,  
+  reference: Phys. Rev. Lett. 110, 143604 (2013).
+  link: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.143604  
+
+- name: Reaction coordinates for the crystal nucleation of colloidal suspensions extracted from the reweighted path ensemble,
+  authors: W. Lechner, C. Dellago, and P. G. Bolhuis,
+  reference: J. Chem. Phys. 135, 154110 (2011).
+  link: http://aip.scitation.org/doi/full/10.1063/1.3651367
+
+- name: On the Relation Between Projections of the Reweighted Path Ensemble,
+  authors: P. G. Bolhuis and W. Lechner,
+  reference: J. Stat. Phys. 145, 841 (2011).
+  link: http://link.springer.com/article/10.1007/s10955-011-0324-6
+
+- name: Role of the prestructured surface cloud in crystal nucleation, 
+  authors: W. Lechner, C. Dellago, and P. G. Bolhuis,  
+  reference: Phys. Rev. Lett. 106, 085701 (2011).
+  link: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.085701
+
+- name: Non-linear reaction coordinate analysis in the reweighted path ensemble,
+  authors: W. Lechner, J. Rogal, J. Juraszek, B. Ensing and P. G. Bolhuis,
+  reference: J. Chem. Phys. 133, 174110 (2010).
+  link: http://aip.scitation.org/doi/full/10.1063/1.3491818
+
+- name: The reweighted path ensemble,
+  authors: J. Rogal, W. Lechner , J. Juraszek, B. Ensing and P. G. Bolhuis,
+  reference: J. Chem. Phys. 133, 174109 (2010).
+  link: http://aip.scitation.org/doi/full/10.1063/1.3491817
+
+- name: Defect interactions in two-dimensional colloidal crystals vacancy and interstitial strings,
+  authors: W. Lechner and C. Dellago,
+  reference: Soft Matter 5, 2752 - 2758 (2009).
+  link: http://pubs.rsc.org/en/content/articlelanding/2009/sm/b903091c
+
+- name: Point defects in two-dimensional colloidal crystals simulation vs. elasticity theory,
+  authors: W. Lechner and C. Dellago,
+  reference: Soft Matter 5, 646 (2009).
+  link: http://pubs.rsc.org/en/Content/ArticleLanding/2009/SM/b810554e
+
+- name: Accurate determination of crystal structures based on averaged local bond order parameters,
+  authors: W. Lechner and C. Dellago,
+  reference: J. Chem. Phys. 129, 114707 (2008).
+  link: http://aip.scitation.org/doi/full/10.1063/1.2977970
+
+- name: Displacement fields of point defects in two-dimensional colloidal crystals,
+  authors: W. Lechner, E. Schöll-Paschinger, and C. Dellago,
+  reference: J. Phys. Condens. Matter 20, 404202 (2008).
+  link: http://iopscience.iop.org/article/10.1088/0953-8984/20/40/404202
+
+- name: On the efficiency of path sampling methods for the calculation of free energies from non-equilibrium simulations,
+  authors: W. Lechner and C. Dellago,
+  reference: J. Stat. Mech. P04001 (2007).
+  link: http://iopscience.iop.org/article/10.1088/1742-5468/2007/04/P04001
+
+- name: Equilibrium free energies from fast-switching trajectories with large time steps,
+  authors: W. Lechner, H. Oberhofer, C. Dellago and P. Geissler,
+  reference: J. Chem. Phys. 124, 044113 (2006).
+  link: http://aip.scitation.org/doi/full/10.1063/1.2162874
+  
