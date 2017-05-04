@@ -12,5 +12,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-  
-include: ["_people"]
+
+collections:
+    people:
+        output: true
+        permalink: /people/:path/

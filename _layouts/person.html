@@ -1,16 +1,8 @@
 ---
 layout: default
 ---
-<article class="person">
 
-  <header class="person-header">
-    <h1 class="person-name" itemprop="name headline">{{ page.name | escape }}</h1>
-    <p class="person-meta">
-      
-  </header>
+{{person.name}}
+{{person.position}}
+{{ content }}
 
-  <div class="person-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
-</article>

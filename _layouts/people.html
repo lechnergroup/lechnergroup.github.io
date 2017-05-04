@@ -2,22 +2,6 @@
 layout: default
 ---
 
-<div class="people">
-
-  <h1 class="page-heading">People</h1>
-  
-  {{ content }}
-
-  <ul class="people-list">
-    {% for person in site._people %}
-      <li>
-        <span class="person-meta">{{ person.name }}</span>
-
-        <h2>
-          <a class="person-link" href="{{ person.url | relative_url }}">{{ post.name | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-</div>
+{% for person in site.people %}
+   <a class="post-link" href="{{ person.url | relative_url }}">{{ person.name | escape }}</a>
+{% endfor %}
