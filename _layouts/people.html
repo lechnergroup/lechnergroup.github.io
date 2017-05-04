@@ -1,0 +1,24 @@
+
+---
+layout: default
+---
+
+<div class="people">
+
+  <h1 class="page-heading">Posts</h1>
+  
+  {{ content }}
+
+  <ul class="people-list">
+    {% for person in site.people %}
+      <li>
+        <span class="person-meta">{{ post.name }}</span>
+
+        <h2>
+          <a class="person-link" href="{{ person.url | relative_url }}">{{ post.name | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
