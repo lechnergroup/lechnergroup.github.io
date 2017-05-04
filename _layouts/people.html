@@ -1,7 +1,21 @@
----
-layout: default
----
+--- 
+layout: default 
+--- 
 
 {% for person in site.people %}
-   <a class="post-link" href="{{ person.url | relative_url }}">{{ person.name | escape }}</a>
+<table border="0" width="100%">
+    <tbody>
+        <tr>
+            <td valign="top">
+                 {{person.title}} <a class="post-link" href="{{ person.url | relative_url }}">{{ person.name | escape }}</a>
+                <br>{{person.telefon}}
+                <br>{{person.email}}
+            </td>
+            <td>
+                <img src="{{ site.url }}/assets/images/{{person.picture}}" style="width:150px;height:200px;">
+                
+            </td>
+        </tr>
+    </tbody>
+</table>
 {% endfor %}
