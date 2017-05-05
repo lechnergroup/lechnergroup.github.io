@@ -1,28 +1,35 @@
 ---
 layout: default
 ---
-{% include style.css %}
 
+
+<link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
 <table border="0" width="100%">
     <tbody>
         <tr>
-            <td valign="top" >
-                 {{page.title}} {{ page.name }}
-                <br>{{page.telefon}}
-                <br>{{page.email}}
-                <ul class="cv-list">
-                    
-                    {% for item in page.cv %}
-                    <li>
-                    {{item.position}}
-                    </li>
-                    {% endfor %}
-                </ul>
-            </td>
-            <td width="300px">
-                <img src="{{ site.url }}/assets/images/{{page.picture}}" style="width:300px;height:400px;">
+            <td valign ="top" width="200px">
+                <img src="{{ site.url }}/assets/images/{{page.picture}}" style="width:200px">
                 
             </td>
+            <td valign ="top" width="10px">
+                
+            </td>
+            <td valign="top" >
+            
+                 <h2> {{page.acadmictitle}} {{ page.name }} </h2>
+                {{page.telefon}}
+                <br>{{page.email}}
+                <p></p>
+                <h3>Academic career </h3>
+                    
+                    {% for item in page.cv %}
+                    <p>
+                    <p class="cv-date"> {{item.from}}-{{item.to}} </p> {{item.position}} <br>
+                    {{item.location}}
+                    </p>
+                    {% endfor %}
+            </td>
+
         </tr>
     </tbody>
 </table>

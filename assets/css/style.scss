@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.cv-list {
+    list-style: none;
+}
+
+.cv-date {
+    color: $brand-color;
+     display:inline;
+}
