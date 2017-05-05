@@ -1,16 +1,27 @@
 ---
 layout: default
 ---
+<head>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
 
 <table border="0" width="100%">
     <tbody>
         <tr>
-            <td valign="top">
-                 {{page.title}} <a class="post-link" href="{{ page.url | relative_url }}">{{ page.name | escape }}</a>
+            <td valign="top" >
+                 {{page.title}} {{ page.name }}
                 <br>{{page.telefon}}
                 <br>{{page.email}}
+                <ul class="cv-list">
+                    
+                    {% for item in page.cv %}
+                    <li>
+                    {{item.position}}
+                    </li>
+                    {% endfor %}
+                </ul>
             </td>
-            <td>
+            <td width="300px">
                 <img src="{{ site.url }}/assets/images/{{page.picture}}" style="width:300px;height:400px;">
                 
             </td>
