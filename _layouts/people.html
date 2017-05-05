@@ -1,5 +1,6 @@
 --- 
 layout: page 
+title: Groupmembers
 --- 
 
 {% for person in site.people %}
@@ -7,7 +8,7 @@ layout: page
     <tbody>
         <tr>
             <td valign="top">
-                 {{person.title}} <a class="post-link" href="{{ person.url | relative_url }}">{{ person.name | escape }}</a>
+                 {{person.academictitle}} <a class="post-link" href="{{ person.url | relative_url }}">{{ person.name | escape }}</a>
                 <br>{{person.telefon}}
                 <br>{{person.email}}
             </td>
