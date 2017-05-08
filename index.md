@@ -6,10 +6,11 @@ layout: home
 
 Quantum Computing
 ---------
+Quantum computing aims at solving numerical tasks by exploiting quantum phenomena such as entanglement, tunneling, superpositions and measurement. The two main routes in this endeavor are digital circuit based approaches and analog quantum simulation. 
 
-Quantum computing aims at solving numerical tasks by exploiting  quantum phenomena such as entanglement, tunneling, superpositions and measurement. The two main routes in using quantum computing are digital circuit based approaches and analog quantum simulation. An important and promising application of these appraoches is to solve optimization problems efficiently. 
+An important and promising application of quantum computing on near term devices could be to solve optimization problems efficiently. As optimization problems are omnipresent in academic research and industry, the impact of improving on current classical optimization algorithms is a highly desirable goal. However, quantum speed-up from current approaches, such as thermally assisted quantum annealing, is still elusive. 
 
 Mission
 ---------
 
-Our research is dedicated to quantum computing with the aim to solve optimization problems efficiently in near future quantum devices. The focus is fundamental research of adiabatic and non-adiabatic processes, applications in machine learning and optimization as well as implementations in current qubit platfroms. 
+Our research is dedicated to bridging fundmaental theoretcial research in quantum computing with current experimental platfroms with the aim to solve optimization problems efficiently in near future fully coherent quantum devices. The focus is research of coherent adiabatic and non-adiabatic processes, applications in machine learning and optimization problems as well as the investigation of implementations in different next generation qubit platforms. 
