@@ -12,5 +12,4 @@ An important and promising application of quantum computing on near term devices
 
 Mission
 ---------
-
 Our research is dedicated to bridging fundmaental theoretcial research in quantum computing with current experimental platfroms with the aim to solve optimization problems efficiently in near future fully coherent quantum devices. The focus is research of coherent adiabatic and non-adiabatic processes, applications in machine learning and optimization problems as well as the investigation of implementations in different next generation qubit platforms. 
