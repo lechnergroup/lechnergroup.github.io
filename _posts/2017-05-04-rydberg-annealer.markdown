@@ -8,5 +8,5 @@ There is a significant ongoing effort in realizing quantum annealing with differ
 [1] [A Coherent Quantum Annealer with Rydberg Atoms](https://arxiv.org/abs/1611.02594), 
 A. Glaetzle, R. van Bijnen , P. Zoller and W. Lechner, arxiv 1611.02594  (2017).
 
-[2] [A Coherent Quantum Annealer with Rydberg Atoms](https://arxiv.org/abs/1611.02594), 
-A. Glaetzle, R. van Bijnen , P. Zoller and W. Lechner, arxiv 1611.02594  (2017).
+[2] [A Quantum Annealing Architecture with All-to-All Connectivity from Local Interactions](http://advances.sciencemag.org/content/1/9/e1500838), 
+W. Lechner, P. Hauke, and P. Zoller, Science Advances 1, 1500838 (2015).
