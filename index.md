@@ -2,6 +2,8 @@
 layout: home
 ---
 
+![Group Logo](/assets/images/header.jpg){:class="img-responsive"}
+
 Quantum Computing
 ---------
 
