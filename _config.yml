@@ -3,7 +3,7 @@ email: wolfgang.lechner@uibk.ac.at
 description: > 
   Quantum Computing, Quantum Optimization, Adiabatic Quantum Computing
 baseurl: "" 
-url: "lechnergroup.github.io" 
+url: "" 
 
 markdown: kramdown
 theme: minima
