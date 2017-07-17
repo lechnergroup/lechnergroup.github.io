@@ -24,7 +24,7 @@ layout: default
                     
                     {% for item in page.cv %}
                     <p>
-                    <p class="cv-date"> {{item.from}}-{{item.to}} </p> {{item.position}} <br>
+                    <div class="cv-date"> {{item.from}}-{{item.to}} </div> <br> {{item.position}} <br>
                     {{item.location}}
                     </p>
                     {% endfor %}
