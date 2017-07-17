@@ -1,3 +1,6 @@
+---
+---
+
 @import "{{ site.theme }}";
 
 $background-color: #ffffff !default;
@@ -9,4 +12,5 @@ $background-color: #ffffff !default;
 .cv-date {
     color: #76859e;
      display:inline;
+     font-style: oblique;
 }

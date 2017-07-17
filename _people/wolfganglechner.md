@@ -2,7 +2,7 @@
 layout: person
 name: "Wolfgang Lechner"
 position: "Professor"
-academictitle: "Ass. Prof. Dr."
+academictitle: "Ass. Prof."
 telefon: "+43 512 507 52232"
 picture : "wolfganglechner.jpg"
 email: "wolfgang.lechner@uibk.ac.at"

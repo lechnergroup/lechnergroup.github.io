@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
+<link rel="stylesheet" href="{{ site.url }}/css/style.css">
 <table border="0" width="100%">
     <tbody>
         <tr>
@@ -24,7 +24,7 @@ layout: default
                     
                     {% for item in page.cv %}
                     <p>
-                    <div class="cv-date"> {{item.from}}-{{item.to}} </div> <br> {{item.position}} <br>
+                    <p class="cv-date"> {{item.from}}-{{item.to}} </p> {{item.position}} <br>
                     {{item.location}}
                     </p>
                     {% endfor %}
