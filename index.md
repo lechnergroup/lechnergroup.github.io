@@ -11,4 +11,4 @@ Quantum computing aims at solving computationally hard problems by exploiting qu
 
 Mission
 ---------
-Our research is dedicated to theoretical research in quantum physics with the aim to solve computationally challenging problems efficiently in near term quantum devices. The focus is research of coherent adiabatic and non-adiabatic processes, applications in machine learning and optimization problems as well as the investigation of implementations in different next generation qubit platforms.
+Our research is dedicated to theoretical quantum physics with the aim to solve computationally challenging problems efficiently in near term quantum devices. The focus is research of coherent adiabatic and non-adiabatic processes, applications in machine learning and optimization problems as well as the investigation of implementations in different next generation qubit platforms.
