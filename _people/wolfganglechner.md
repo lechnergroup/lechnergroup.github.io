@@ -13,7 +13,7 @@ cv:
       from     : 10/2016
       to       : now
   
-    - position : Independent Researcher (PI of FWF-P25454)
+    - position : PostDoc (PI of FWF-P25454)
       location : IQOQI Innsbruck
       from     : 05/2013
       to       : 10/2016
