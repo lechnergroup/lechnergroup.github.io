@@ -5,8 +5,8 @@ position: "Phd Student"
 academictitle: "Mag."
 telefon: ""
 picture : "philippaumann.jpg"
-email: "wolfgang.lechner@uibk.ac.at"
-title: "Wolfgang Lechner"
+email: "philipp.aumann@uibk.ac.at"
+title: "Philipp Aumann"
 cv:
     
     - position : Master in Physics
